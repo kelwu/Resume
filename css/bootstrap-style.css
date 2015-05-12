@@ -1,11 +1,28 @@
 .sidebar {
-  background-color: gray;
+  background-color: #333333;
   margin-left: 5%;
   padding-left: 5%;
   padding-top: 5%;
   height: 100vh;
+  text-align: center;
 }
 .profilepic img {
   border-radius: 100%;
-  width: 150px;
+  width: 45%;
+  margin-bottom: 3.5%;
+}
+.skills {
+  color: white;
+  text-align: left;
+}
+.skillslist {
+  color: white;
+  text-align: left;
+}
+.header {
+  font-size: 75px;
+  display: inline-block;
+}
+.contact {
+  float: right;
 }
