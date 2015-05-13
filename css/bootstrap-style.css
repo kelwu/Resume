@@ -1,6 +1,9 @@
+body {
+  padding-left: 10px;
+  padding-right: 10px;
+}
 .sidebar {
   background-color: #333333;
-  margin-left: 5%;
   padding-left: 5%;
   padding-top: 5%;
   height: 100vh;
@@ -24,5 +27,11 @@
   display: inline-block;
 }
 .contact {
+  float: right;
+}
+summary {
+  margin-top: 5%;
+}
+.dates {
   float: right;
 }
