@@ -1,6 +1,7 @@
 body {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 7%;
+  padding-right: 7%;
+  font-family: 'PT Sans', sans-serif;
 }
 .sidebar {
   background-color: #333333;
@@ -17,21 +18,35 @@ body {
 .skills {
   color: white;
   text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
 }
 .skillslist {
   color: white;
   text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
 }
 .header {
   font-size: 75px;
   display: inline-block;
+  font-family: verdana;
 }
 .contact {
   float: right;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-right: 5%;
 }
 summary {
   margin-top: 5%;
 }
 .dates {
   float: right;
+  margin-top: 15px;
+  margin-right: 5%;
+}
+article.experience-content {
+  margin-right: 30%;
 }
