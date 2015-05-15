@@ -42,6 +42,15 @@ body {
 summary {
   margin-top: 5%;
 }
+p       {
+  font-style: italic;
+  background-color: #EEEEEE;
+  padding-top: 11px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+}
 .dates {
   float: right;
   margin-top: 15px;
