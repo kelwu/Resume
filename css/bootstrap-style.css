@@ -3,12 +3,18 @@ body {
   padding-right: 7%;
   font-family: 'PT Sans', sans-serif;
 }
+body, html {
+  height: 100%;
+}
 .sidebar {
   background-color: #333333;
   padding-left: 5%;
   padding-top: 5%;
   height: 100vh;
   text-align: center;
+}
+.clear {
+  clear: both;
 }
 .profilepic img {
   border-radius: 100%;
@@ -58,4 +64,7 @@ p       {
 }
 article.experience-content {
   margin-right: 30%;
+}
+.row {
+  height: 100%;
 }
