@@ -10,6 +10,13 @@ body, html {
   background-color: #333333;
   padding-left: 5%;
   padding-top: 5%;
+  height: 100%;
+  text-align: center;
+}
+.sidebar-two {
+  background-color: #333333;
+  padding-left: 5%;
+  padding-top: 5%;
   height: 100vh;
   text-align: center;
 }
